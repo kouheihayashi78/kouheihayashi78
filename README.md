@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue" alt="Views" />
+</div>
 
-<!--
-**kouheihayashi78/kouheihayashi78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-Here are some ideas to get you started:
+- 🧑‍💻 I'm a Web Developer.
+- 🌱 I’m currently working with **Next.js** and **Laravel**.
+- 📫 How to reach me: [Twitter - @YOUR_TWITTER_ID](https://twitter.com/YOUR_TWITTER_ID)
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,astro,figma,php,laravel,docker,aws" />
+<br>
+
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=kouheihayashi78&show_icons=true&theme=vue-dark" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouheihayashi78&theme=vue-dark&layout=compact" />
+</div>
+
+<br>
