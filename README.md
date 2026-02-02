@@ -6,12 +6,15 @@
 
 - 🧑‍💻 I'm a Web Developer.
 - 🌱 I’m currently working with **Next.js** and **Laravel**.
-- 📫 How to reach me: [Twitter - @YOUR_TWITTER_ID](https://twitter.com/YOUR_TWITTER_ID)
 <br>
 
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,astro,figma,php,laravel,docker,aws" />
 <br>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kouheihayashi78&hide=contribs,prs)
+
 
 ## 🏃‍♀️ Activities
 <div align="left"> 
